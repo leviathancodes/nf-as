@@ -32,7 +32,7 @@
     "passport-twitter": "^1.0.4",
     "sharp": "^0.23.2",
     "socket.io": "^2.3.0",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "env-cmd": "^10.0.1",
