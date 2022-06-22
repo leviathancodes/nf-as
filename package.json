@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "async-retry": "^1.2.3",
     "aws-sdk": "^2.555.0",
     "bcrypt": "^3.0.7",
